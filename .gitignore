@@ -1,0 +1,28 @@
+# Arquivos temporários de sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Pastas de backup/temporárias
+*.bak
+*.tmp
+~$*
+
+# Configurações locais do VS Code
+.vscode/
+
+# Arquivos do LibreOffice / Office temporários
+*.swp
+*.lock
+
+# Arquivos gerados automaticamente (exportações)
+*.pdf
+*.png
+*.jpg
+*.jpeg
+*.svg
+
+# Backups do Figma/Draw.io/StarUML
+*.dtmp
+*.dbackup
+*.autosave
